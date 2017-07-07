@@ -4,5 +4,4 @@ My idea behind this project is to explore whether changes in social order that w
 
 I'm starting with classical literature of 19th century, which is my first research in a series of few.
 
-## Data
-I visited Gutenberg Project to get the data. Altogether I analyzed novels and short stories by 60 authors.
+To get the data, I visited [the Gutenberg Project](http://www.gutenberg.org/wiki/Main_Page). Altogether I analyzed novels and short stories written by 60 authors (30 men/30 women).
